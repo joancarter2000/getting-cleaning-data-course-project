@@ -1,10 +1,10 @@
-As listed below this dataset has total 68 variables
-the Subject variable is numeric 
-the Activity variable is character
-all other variables are numeric
-the detailed explanation of each variable can be found in the original features_info file
-the only change i made to variable 3 to 68 is remove "()" from their original names for easy reading.
-the steps i made to clean the original dateset following the course instructions are documented in README.md
+As listed below this dataset has total 68 variables,
+the Subject variable is numeric, 
+the Activity variable is character,
+all other variables are numeric.
+The detailed explanation of each variable can be found in the original features_info file.
+The only change i made to variable 3 to 68 is remove "()" from their original names for easy reading.
+The steps i made to clean the original dateset following the course instructions are documented in README.md
 file in the repository.
 
 1.Subject
